@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : #""
-  title                    : "李帅东/个人主页"
+  title                    : "个人主页"
   title_separator          : "-"
 name                     : &name "李帅东"
 description              : &description "我目前就读于南开大学网络空间安全学院。"
