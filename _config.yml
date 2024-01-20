@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : #"中国-天津"
-title                    : "李帅东/个人主页"
-  title_separator          : #"-"
+locale                   : #""
+  title                    : "李帅东/个人主页"
+  title_separator          : "-"
 name                     : &name "李帅东"
 description              : &description "我目前就读于南开大学网络空间安全学院。"
 url                      : https://leeorange-is-me.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
